@@ -1,0 +1,60 @@
+============[Date]============
+[ 2023-05-02 03:39:10  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= null
+
+
+============[Trace]===========
+#0 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/Telegram.php(1859): TelegramErrorLogger::log(Array, Array)
+#1 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/Telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/Telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/test-bot.php(132): Telegram->sendMessage(Array)
+#4 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/test-bot.php(13): sendMessageJson()
+#5 {main}
+
+============[Date]============
+[ 2023-05-02 03:42:26  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= null
+
+
+============[Trace]===========
+#0 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/Telegram.php(1859): TelegramErrorLogger::log(Array, Array)
+#1 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/Telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/Telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/test-bot.php(132): Telegram->sendMessage(Array)
+#4 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/test-bot.php(13): sendMessageJson()
+#5 {main}
+
+============[Date]============
+[ 2023-05-02 03:42:29  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= null
+
+
+============[Trace]===========
+#0 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/Telegram.php(1859): TelegramErrorLogger::log(Array, Array)
+#1 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/Telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/Telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/test-bot.php(132): Telegram->sendMessage(Array)
+#4 /home/m/mrmakhk4/mrmakhk4.beget.tech/public_html/test-bot.php(13): sendMessageJson()
+#5 {main}
+
